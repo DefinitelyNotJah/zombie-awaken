@@ -3,7 +3,7 @@ This is a standalone Zombie-Apocalypse mod for Counter Strike 1.6 written in AMX
 Features :
 ```
 	* Classic Infection Mod
-	* Yaksha Infection Mod
+	* Yaksha Boss Mod
 	* Buy-menu with a variety of weapons
 	* Level-up system
 	* Knife Menu
