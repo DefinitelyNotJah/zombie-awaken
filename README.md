@@ -1,28 +1,36 @@
 Zombie Awaken | CSO Mod.
 This is a standalone Zombie-Apocalypse mod for Counter Strike 1.6 written in AMXMODX by me. This is NOT based in other mods such as Zombie Plague 4.2 or Zombie Plague 5.0.8.
 Features :
+```
 	* Classic Infection Mod
 	* Yaksha Infection Mod
 	* Buy-menu with a variety of weapons
 	* Level-up system
 	* Knife Menu
 	* Multiple Zombie Classes
+```
 This gameplay mod was heavily inspired by Zombie Engine (2016) and SISA Mod.
 Recommended Environment :
+```
 	* HLDS Build 7882
 	* Metamod v1.20
 	* AMXMODX v1.8.2
 	* MySQL 5.7
+```
 Recommended Settings :
+```
 	* 2GB of RAM
 	* 1c 1.8Ghz
 	* 5GB of Storage
 	* 100MB/s Internet Speeed
+```
 Gameplay (pretty old) :
+```
 	* https://www.youtube.com/watch?v=0viFub9P_tw
 	* https://www.youtube.com/watch?v=l-CgdKA64MU
 	* https://www.youtube.com/watch?v=EsMs8JqNDAw
 	* https://www.youtube.com/watch?v=JyLVyPm1R90
+```
 I started working on this mod back in 2016-2017 when I was active in the Counter-Strike 1.6 modding community. 
 I did pretty good progress on it then left for around 3-4 years. and I picked it again in Early 2020.
 -> It is written in a crude method with no optimization or programming-ethics whatsoever to speak of, so please excuse me if you get triggered looking at the source code. I wrote it when I was 14 years old and I never got around it to re-write/optimize/improve it so...
