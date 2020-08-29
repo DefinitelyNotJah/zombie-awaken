@@ -1,0 +1,5 @@
+4
+weapon		640 csozm/640hud36	0	180	170	45
+weapon_s	640 csozm/640hud41	0	180	170	45
+ammo		640 csozm/640hud7	192	124	24	24
+crosshair	640 csozm/svdex_scope	0	0	256	256

@@ -1,0 +1,3 @@
+2
+weapon			640 csozm/640hud25 	  0	90	170	45
+weapon_s		640 csozm/640hud25        0	90	170	45

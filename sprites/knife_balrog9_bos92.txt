@@ -1,0 +1,3 @@
+3
+weapon			640 balrog9/640hud75	  0	180	170	45
+weapon_s		640 balrog9/640hud75         0	180	170	45
